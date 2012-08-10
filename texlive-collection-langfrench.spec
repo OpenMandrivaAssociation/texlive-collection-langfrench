@@ -1,4 +1,4 @@
-# revision 25419
+# revision 27049
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-langfrench
 Epoch:		1
-Version:	20120224
+Version:	20120810
 Release:	1
 Summary:	French
 Group:		Publishing
@@ -17,6 +17,8 @@ BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
 Requires:	texlive-aeguill
+Requires:	texlive-basque-book
+Requires:	texlive-basque-date
 Requires:	texlive-bib-fr
 Requires:	texlive-bibleref-french
 Requires:	texlive-booktabs-fr
@@ -34,7 +36,7 @@ Requires:	texlive-hyphen-french
 Requires:	texlive-collection-basic
 
 %description
-Support for typesetting French.
+Support for typesetting French and Basque.
 
 #-----------------------------------------------------------------------
 %files
