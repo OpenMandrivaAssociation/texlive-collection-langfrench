@@ -48,3 +48,16 @@ Support for typesetting French and Basque.
 %build
 
 %install
+
+
+%changelog
+* Fri Aug 10 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120810-1
++ Revision: 813925
+- Update to latest release.
+
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780407
+- Update to latest release.
+- Import texlive-collection-langfrench
+- Import texlive-collection-langfrench
+
