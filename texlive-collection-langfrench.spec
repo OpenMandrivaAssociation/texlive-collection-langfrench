@@ -6,8 +6,8 @@
 # catalog-version undef
 Name:		texlive-collection-langfrench
 Epoch:		1
-Version:	20180303
-Release:	2
+Version:	20190117
+Release:	1
 Summary:	French
 Group:		Publishing
 URL:		http://tug.org/texlive
