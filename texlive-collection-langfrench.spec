@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-langfrench
 Epoch:		1
-Version:	20190117
+Version:	20190228
 Release:	1
 Summary:	French
 Group:		Publishing
