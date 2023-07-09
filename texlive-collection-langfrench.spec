@@ -1,7 +1,7 @@
 Name:		texlive-collection-langfrench
 Epoch:		1
-Version:	63147
-Release:	2
+Version:	67459
+Release:	1
 Summary:	French
 Group:		Publishing
 URL:		http://tug.org/texlive
