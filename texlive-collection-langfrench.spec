@@ -1,6 +1,6 @@
 Name:		texlive-collection-langfrench
 Epoch:		1
-Version:	71182
+Version:	72499
 Release:	1
 Summary:	French
 Group:		Publishing
